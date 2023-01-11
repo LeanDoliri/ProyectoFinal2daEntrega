@@ -1,0 +1,48 @@
+[{
+  "idCarrito": 112390,
+  "timestamp": 1646028665583,
+  "creationDate": "12/7/2022",
+  "usuario": "Gabo1",
+  "productos": [
+    {
+      "title": "sprite",
+      "price": "150",
+      "description": "most popular soda",
+      "thumbnail": "https://dummyimage.com/250/000/555",
+      "stock": "9",
+      "id": 1
+    },
+    {
+      "title": "coke",
+      "price": "180",
+      "description": "i love this one thats why is here",
+      "thumbnail": "https://dummyimage.com/250/000/fff",
+      "stock": "5",
+      "id": 3
+    }
+  ]
+},
+{
+  "idCarrito": 111990,
+  "timestamp": 1670473648469,
+  "creationDate": "12/7/2022",
+  "usuario": "gabo2",
+  "productos": [
+    {
+      "title": "Coke",
+      "price": "150",
+      "description": "most popular soda",
+      "thumbnail": "https://dummyimage.com/250/000/555",
+      "stock": "9",
+      "id": 1
+    },
+    {
+      "title": "MtnDew",
+      "price": "180",
+      "description": "i love this one thats why is here",
+      "thumbnail": "https://dummyimage.com/250/000/fff",
+      "stock": "5",
+      "id": 3
+    }
+  ]
+}]
